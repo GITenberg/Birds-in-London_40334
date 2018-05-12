@@ -1,0 +1,58 @@
+_repo: Birds-in-London_40334
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: McCormick, A. D. (Arthur David)
+    aliases:
+    - M'Cormick, A. D. (Arthur David)
+    - McCormick, Arthur David
+    - McCormick, A.D.
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '40073'
+    url: http://www.gutenberg.org/2009/agents/40073
+  - agent_name: Hook, Bryan
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '44916'
+    url: http://www.gutenberg.org/2009/agents/44916
+  photographer:
+    agent_name: Lodge, R. B. (Reginald B.)
+    alias: Lodge, Reginald B.
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '34254'
+    url: http://www.gutenberg.org/2009/agents/34254
+covers:
+- cover_type: archival
+  image_path: 40334-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Hudson, William Henry
+    - Harford, Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+description: Ornithologist William H. Hudson fell in love with birds at a young age.
+  In Birds in London , he turns his keenly observant eye to the birds found in the
+  capital, home to a vast array of them. A must-read for any budding ornithologist
+  or bird-watcher, Birds in London is elegantly composed and brimming with insights
+  about our feathered friends
+gutenberg_issued: '2012-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40334'
+  lccn: 06019599
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds -- England -- London'
+title: Birds in London
+url: http://www.gutenberg.org/ebooks/40334
